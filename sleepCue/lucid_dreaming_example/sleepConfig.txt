@@ -1,0 +1,15 @@
+lucidDreamingExample
+0
+1.5
+10
+tuba_100.wav
+http://biostream-1024.appspot.com
+tuba_25.wav
+tuba_25.wav
+tuba_25.wav
+tuba_50.wav
+tuba_50.wav
+tuba_50.wav
+tuba_100.wav
+tuba_100.wav
+tuba_100.wav
