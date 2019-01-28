@@ -4,7 +4,7 @@ lucidDreamingExample
 10
 tuba_100.mp3
 http://biostream-1024.appspot.com
-tuba_mp3.mp3
+tuba_25.mp3
 tuba_25.mp3
 tuba_25.mp3
 tuba_100.mp3
