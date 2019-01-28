@@ -1,0 +1,1 @@
+An example of using SleepCue to present an increasingly loud lucid dreaming cue. If you actually use this for lucid dreaming, you will probably want to change the timing (right now it starts immediatley and ends after 90 seconds of cueing)
