@@ -2,10 +2,11 @@ SleepCue is written using MIT app inventor. SleepCue_public.apk is the compiled 
 
 # Use
 To run an experiment all your users will need to install **the sleepCue app** and **your experiment files**. The app is installed as a regular Android APK, either from
-here or from the Play store at: *pending*
+here or from the Play store at: *pending* Your experiment consists of a file called sleepConfig.txt which specifies which stimuli play when, and the sound files themselves.
 
-Your experiment consists of a file called sleepConfig.txt which specifies which stimuli play when, and the sound files themselves.
+Participants will be prompted to load an experiment when first starting the app (see below).O nce the experiment is loaded the app will request that participants set the volume of white noise and cue sounds (using a "calibration sound" specified in the experiment). Once the sounds are set, the participant can tap "Ready for sleep" to begin the protocol.
 
+If a data server is specified in the experiment file, participants can also use the "send data" button on the first screen to send log files back to the experimenter.
 
 ## Installing an experiment
 
